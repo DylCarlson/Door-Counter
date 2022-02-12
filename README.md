@@ -12,7 +12,7 @@ we can see how many people enter at specific times. There may be other benefits 
 but it is mainly for fun.
 
 The current hardware this is being tested on is a Raspberry Pi 3 B+, but this can in future be implemented
-using a Raspberry Pi Zero.
+using a Raspberry Pi Zero since it is a much more cost effective solution.
 
 ## Ideas
 
@@ -25,3 +25,9 @@ The following are different ideas to try to find the best solution for counting 
     directly into the laser.
 - Something counting the number of times door opened
     - May be inaccurate since door can be opened for multiple groups of people.
+
+## References
+- https://www.canakit.com/raspberry-pi-3-model-b-plus-ultimate-kit.html
+    - Where Raspberry Pi was ordered from.
+- https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/
+    - Ultrasonic sensor code and wiring diagram.
